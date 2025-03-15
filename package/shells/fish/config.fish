@@ -45,9 +45,6 @@ if status --is-interactive
    source ("/usr/bin/starship" init fish --print-full-init | psub)
 end
 
-## Advanced command-not-found hook
-source /usr/share/doc/find-the-command/ftc.fish
-
 ## Functions
 # Functions needed for !! and !$ https://github.com/oh-my-fish/plugin-bang-bang
 function __history_previous_command
