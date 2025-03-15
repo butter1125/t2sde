@@ -145,6 +145,7 @@ alias tarnow 'tar -acf '
 alias untar 'tar -zxvf '
 alias upd '/usr/bin/garuda-update'
 alias vdir 'vdir --color=auto'
+alias vi 'vim -p'
 alias wget 'wget -c '
 
 # Get fastest mirrors
